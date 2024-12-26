@@ -40,29 +40,48 @@ Ce logiciel sera accessible via un navigateur web après authentification, vous 
 Le logiciel doit prévoir les cas d’utilisation suivants :
 
 ##### Quiz:
+
 1- Ajouter un Quiz
+
 2- Éditer un quiz
+
 3- Supprimer un quiz (et toutes les catégories et questions associées)
+
 4- Sélectionner tous les Quiz
+
 5- Sélectionner un Quiz à partir de son identifiant
+
 6- Un quiz a-t’ il au moins une catégorie associée ?
 
 
 ##### Catégories:
+
 1- Ajouter une catégorie à un Quizz
+
 2- Éditer une catégorie
+
 3- Supprimer une catégorie (et toutes les questions associées)
+
 4- Sélectionner toutes les catégories
+
 5- Sélectionner une catégorie par son identifiant en intégrant le nom du quiz
+
 6- Sélectionner toutes les catégories d’un Quiz à partir de l’identifiant du Quiz
+
 7- Une catégorie a-t’elle exactement 5 questions associées (une par niveau) ?
 
 #### Questions:
+
 1- Ajouter une question à une catégorie
+
 2- Éditer une question
+
 3- Supprimer une question
+
 4- Sélectionner toutes les questions
+
 5- Sélectionner toutes les questions d’une catégorie à partir de l’identifiant de la catégorie
+
 6- Sélectionner toutes les questions d’un Quiz à partir de l’identifiant d’un Quiz
 
 ### Interface Utilisateur:
